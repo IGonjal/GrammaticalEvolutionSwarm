@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <pmdVersion>6.25.0</pmdVersion>
-        <logVersion>2.13.3</logVersion>
+        <logVersion>2.15.0</logVersion>
         <springVersion>5.2.8.RELEASE</springVersion>
         <springBootversion>2.2.0.RELEASE</springBootversion>
     </properties>
